@@ -1,0 +1,3 @@
+[submodule "totk-tools"]
+	path = totk-tools
+	url = https://github.com/McSpazzy/totk-tools.git
